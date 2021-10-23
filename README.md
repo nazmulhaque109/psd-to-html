@@ -1,1 +1,1 @@
-# PSD-to-HTML
+# psd-to-html
